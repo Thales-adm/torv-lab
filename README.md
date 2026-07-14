@@ -17,3 +17,7 @@ Build an open research platform capable of reproducing failures across software 
 ## Status
 
 🚧 Project under active development.
+
+## Current Phase
+
+Phase 00 - Research and Environment Charter.
