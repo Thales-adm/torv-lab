@@ -25,8 +25,8 @@ Phase 00 - Research and Environment Charter.
 ## Learning Approach
 
 Understand, build, break, diagnose, recover, measure and creat document..
-Understand, build, break, diagnose, recover, measure and document.
+
 
 ## Merge Conflict Laboratory
 
-This section was created during the TORV Git laboratory..
+This section was created during the TORV Git laboratory.
